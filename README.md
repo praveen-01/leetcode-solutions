@@ -1,4 +1,5 @@
 # leetcode-solutions
+I try to solve daily code chanllenges posted by leetcode whenever i find time on that day, trying to be consistent
 1 leetcode problem a day keeps the interview rejection away
 
 <h2>Links to the problems</h2>
