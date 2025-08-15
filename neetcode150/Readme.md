@@ -1,1 +1,2 @@
-<H1>This folder contains solutions to neetcode150 track</H1>
+<H3>This folder contains all problems solved in neetcode150 track</H3>
+Personal target is to solve this list in a span of 100 days
