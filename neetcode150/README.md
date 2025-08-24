@@ -3,7 +3,7 @@
 This repository contains my solutions to the [NeetCode 150](https://neetcode.io/roadmap) list of LeetCode problems.  
 I’m solving these to strengthen my problem-solving, data structures, and algorithms knowledge.  
 
-Progress: **14 / 150**
+Progress: **20 / 150**
 
 ---
 
@@ -53,10 +53,10 @@ Progress: **14 / 150**
 <details>
 <summary>🟦 Sliding Window</summary>
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
@@ -116,7 +116,7 @@ Progress: **14 / 150**
 <details>
 <summary>🟦 Trees</summary>
 
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
@@ -126,7 +126,7 @@ Progress: **14 / 150**
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [ ] [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
-- [ ] [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+- [x] [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
