@@ -3,7 +3,7 @@
 This repository contains my solutions to the [NeetCode 150](https://neetcode.io/roadmap) list of LeetCode problems.  
 I’m solving these to strengthen my problem-solving, data structures, and algorithms knowledge.  
 
-Progress: **51 / 150**
+Progress: **14 / 150**
 
 ---
 
@@ -24,14 +24,14 @@ Progress: **51 / 150**
 <summary>🟦 Arrays & Hashing</summary>
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 </details>
 
@@ -40,11 +40,11 @@ Progress: **51 / 150**
 <details>
 <summary>🟦 Two Pointers</summary>
 
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 </details>
 
