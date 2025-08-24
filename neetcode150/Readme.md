@@ -23,7 +23,7 @@ Progress: **51 / 150**
 <details>
 <summary>🟦 Arrays & Hashing</summary>
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
@@ -304,5 +304,4 @@ Progress: **51 / 150**
 ## 📌 Resources
 
 [NeetCode Roadmap](https://neetcode.io/roadmap)
-
 
