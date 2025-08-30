@@ -3,7 +3,7 @@
 This repository contains my solutions to the [NeetCode 150](https://neetcode.io/roadmap) list of LeetCode problems.  
 I’m solving these to strengthen my problem-solving, data structures, and algorithms knowledge.  
 
-Progress: **23 / 150**
+Progress: **24 / 150**
 
 ---
 
@@ -128,7 +128,7 @@ Progress: **23 / 150**
 - [x] [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 - [x] [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 - [x] [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
