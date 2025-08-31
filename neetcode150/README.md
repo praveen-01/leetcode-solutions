@@ -3,7 +3,7 @@
 This repository contains my solutions to the [NeetCode 150](https://neetcode.io/roadmap) list of LeetCode problems.  
 I’m solving these to strengthen my problem-solving, data structures, and algorithms knowledge.  
 
-Progress: **24 / 150**
+Progress: **36 / 150**
 
 ---
 
@@ -67,11 +67,11 @@ Progress: **24 / 150**
 <details>
 <summary>🟦 Stack</summary>
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
 - [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
@@ -97,11 +97,11 @@ Progress: **24 / 150**
 <details>
 <summary>🟦 Linked List</summary>
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
@@ -118,13 +118,13 @@ Progress: **24 / 150**
 
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ] [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [x] [Same Tree](https://leetcode.com/problems/same-tree/)
+- [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [x] [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [x] [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 - [x] [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 - [x] [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
