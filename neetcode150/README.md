@@ -3,7 +3,7 @@
 This repository contains my solutions to the [NeetCode 150](https://neetcode.io/roadmap) list of LeetCode problems.  
 I’m solving these to strengthen my problem-solving, data structures, and algorithms knowledge.  
 
-Progress: **36 / 150**
+Progress: **41 / 150**
 
 ---
 
@@ -103,7 +103,7 @@ Progress: **36 / 150**
 - [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
 - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
