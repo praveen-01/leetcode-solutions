@@ -3,7 +3,7 @@
 This repository contains my solutions to the [NeetCode 150](https://neetcode.io/roadmap) list of LeetCode problems.  
 I’m solving these to strengthen my problem-solving, data structures, and algorithms knowledge.  
 
-Progress: **48 / 150**
+Progress: **53 / 150**
 
 ---
 
@@ -21,7 +21,7 @@ Progress: **48 / 150**
 ---
 
 <details>
-<summary>🟦 Arrays & Hashing</summary>
+<summary>✅ Arrays & Hashing</summary>
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -38,7 +38,7 @@ Progress: **48 / 150**
 ---
 
 <details>
-<summary>🟦 Two Pointers</summary>
+<summary>✅ Two Pointers</summary>
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -95,19 +95,19 @@ Progress: **48 / 150**
 ---
 
 <details>
-<summary>🟦 Linked List</summary>
+<summary>✅ Linked List</summary>
 
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- [x] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-- [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-- [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [x] [LRU Cache](https://leetcode.com/problems/lru-cache/)
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [x] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
 </details>
 
